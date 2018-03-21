@@ -1,0 +1,6 @@
+{
+  "projectId": "y9h5sn",
+  "baseUrl": "https://us1.rallydev.com",
+  "defaultCommandTimeout": 45000,
+  "env":{"CYPRESS_RECORD_KEY":"8f971ca5-ad45-46ec-979d-b0104c756771"}
+}
